@@ -1,0 +1,8 @@
+{
+  "name": "FishDroid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "db864691"
+}
